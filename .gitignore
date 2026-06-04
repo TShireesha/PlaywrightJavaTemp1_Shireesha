@@ -1,6 +1,5 @@
 # --- Maven Build Artifacts ---
 target/
-pom.xml.*
 release.properties
 dependency-reduced-pom.xml
 .mvn/timing.properties
