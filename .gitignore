@@ -1,0 +1,26 @@
+# --- Maven Build Artifacts ---
+target/
+pom.xml.*
+release.properties
+dependency-reduced-pom.xml
+.mvn/timing.properties
+test-output/
+Maven Dependencies/
+
+# --- Eclipse IDE Specific ---
+.project
+.classpath
+.settings/
+.metadata/
+bin/
+.factorypath
+.apt_generated/
+
+# --- Java & JVM ---
+*.class
+*.log
+hs_err_pid*
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
